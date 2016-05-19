@@ -1,4 +1,3 @@
-r"""Scrabble in tkinter. By Simon C, Aidan C, and Jacob P."""
 ######################################################################################################################################################
 #Initialize the root
 from tkinter import * #for...everything
