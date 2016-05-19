@@ -5,5 +5,5 @@ Done in tkinter, a python GUI module.
 
 TODO:
   update scoring system:
-    double direction DLS and TLS
+    double direction DLS and TLS,
     blanks are 0 points
